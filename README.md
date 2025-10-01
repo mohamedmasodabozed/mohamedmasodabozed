@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Masodabozed  
+# Hi, I'm Mohamed Masod abozed  
 
 Welcome to my GitHub profile!  
 I’m an aspiring **Full Stack Developer** currently learning and building projects in **web development**. This space is where I share my journey, experiments, and contributions to open source.  
